@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="6" build="0" />
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="Module" value="39ad2bae-26c8-4050-836c-5398657031c7" type="23" />
+            <attribute id="Name" value="DosOverhaul" type="23" />
+            <attribute id="Type" value="Add-on" type="23" />
+            <attribute id="UUID" value="d5f05bab-7911-45c2-9ade-9b56beb92629" type="23" />
+        </node>
+    </region>
+</save>
