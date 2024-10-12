@@ -116,4 +116,10 @@ ehthumbs.db
 Thumbs.db
 *.lnk
 
+# venv
+.venv/
 
+# IDE
+.idea/
+.vscode/
+.vs/
